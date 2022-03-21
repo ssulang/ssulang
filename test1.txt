@@ -1,0 +1,2 @@
+github에 push할 예정입니다
+github 원격저장소에서 수정합니다.
